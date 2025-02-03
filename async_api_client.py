@@ -1,5 +1,3 @@
-
-
 """
 This script demonstrates how to implement an async function to concurrently fetch data from multiple APIs,
 with proper error handling and timeout mechanisms. It can be deployed as an AWS Lambda function.
